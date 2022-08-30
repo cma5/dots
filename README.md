@@ -1,2 +1,2 @@
 # dots
-my go to dotfiles
+my go-to dotfiles
