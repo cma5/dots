@@ -50,6 +50,6 @@ local plugins = {
       local M = require "plugins.configs.cmp"
       table.insert(M.sources, {name = "crates"})
     end
-  }
+  },
 }
 return plugins
